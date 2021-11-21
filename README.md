@@ -1,5 +1,5 @@
 # 🏨Proyecto-Final-1-Trimentre🏨
-#Hotel
+
 Se trata de un programa que gestiona un hotel, haciendo las principales funciones de ello.
 
 Funciones que se pueden Realizar:
