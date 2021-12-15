@@ -5,7 +5,7 @@ class DataBase {
     
     
     
-    private _cadenaConexion: string='mongodb://localhost/test'
+    private _cadenaConexion: string='mongodb+srv://alvaro:123@cluster0.e2jny.mongodb.net/Hotel?retryWrites=true&w=majority'
 
     constructor(){
 
